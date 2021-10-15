@@ -1,6 +1,6 @@
 #This is a code meant to take an input of seconds and convert it to minutes
 
-seconds = 120
+seconds = 77986
 
 Minutes = seconds// 60
 
